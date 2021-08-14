@@ -53,7 +53,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👮 Developer 👮', url="https://t.me/c/1417456571/587"
+                                    '👮 Developer 👮', url="https://t.me/HEXBOTS"
                                 )
                         ]
                     ]
@@ -65,10 +65,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👮 Developers', url='https://t.me/c/1417456571/587'),
-        InlineKeyboardButton('Source Code 👨‍💻', url ='https://github.com/tgbotsProject/auto-filter-bot')
+        InlineKeyboardButton('👮 Developers', url='https://t.me/HEXBOTS'),
+        InlineKeyboardButton('Source Code 👨‍💻', url ='https://t.me/HEXBOTS')
     ],[
-        InlineKeyboardButton('👥 Support 👥', url='https://t.me/izaute/5')
+        InlineKeyboardButton('👥 Support 👥', url='https://t.me/HEXBOTSdg')
     ],[
         InlineKeyboardButton('🆘 Help & Information 🆘', callback_data="help")
     ]]
