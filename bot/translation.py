@@ -55,7 +55,7 @@ Please Subscribe <a href='https://t.me/HEXBOTS'>❤️ @hexbots</a>
   • <b>Configure</b> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results.
   • <b>Status</b> - Button Will Shows The Stats Of Your Channel.
             
-<b>Please Subscribe</b> <a href='https://t.me/HEXBOTS'>❤️ @thexbots</a>
+<b>Please Subscribe</b> <a href='https://t.me/HEXBOTS'>❤️ @hexbots</a>
 """
     
     ABOUT_TEXT = """<b>▷ Name</b>: auto filter bot by HEXBOTS
