@@ -1616,15 +1616,15 @@ async def cb_about(bot, update: CallbackQuery):
 
     text=f"<b><u>Bot's Status</u></b>\n"
     text+=f"\n<b>Bot's Uptime:</b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
-    text+=f"\n<b>Bot Funtion:</b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b>Bot Support:</b> <a href="https://t.me/HEXBOTSdg">Join Now</a>\n"""
+    text+=f"\n<b>Bot Funtion:</b> <i>Auto Filter modded</i>\n"
+    text+=f"""\n<b>Bot Support:</b> <a href="https://t.me/HEXBOTS">Join Now</a>\n"""
     text+="""\n<b><i>Source Code:</i></b> <a href="https://t.me/HEXBOTS">Click me</a>"""
 
     buttons = [
         [
             InlineKeyboardButton
                 (
-                    "Developer 👮", url="https://t.me/HEXBOTSdg"
+                    "Developer 👮", url="https://t.me/HEXBOTS"
                 ),
                 
             InlineKeyboardButton
@@ -1655,10 +1655,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('👮 Developer', url='ht'),
-            InlineKeyboardButton('Source Code 👨‍💻', url ='')
+            InlineKeyboardButton('👮 Developer', url='https://t.me/HEXBOTS'),
+            InlineKeyboardButton('Source Code 👨‍💻', url ='https://t.me/HEXBOTS')
         ],[
-            InlineKeyboardButton('👥 Support Group 👥', url='https://t.me/HEXBOTS')
+            InlineKeyboardButton('👥 Support Group 👥', url='https://t.me/HEXBOTSdg')
         ],[
             InlineKeyboardButton('🆘 Help & Information 🆘', callback_data="help")
         ]]
