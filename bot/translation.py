@@ -64,5 +64,5 @@ Please Subscribe <a href='https://t.me/HEXBOTS'>❤️ @hexbots</a>
 <b>▷ Library</b>: <a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a>
 <b>▷ Source Code</b>: <a href="https://t.me/HEXBOTS">Click me</a>
 
-<b>Please Subscribe</b> <a href='https://t.me/HEXBOTSdg'>❤️ @HEXBOTS</a>
+<b>Please Subscribe</b> <a href='https://t.me/HEXBOTS'>❤️ @HEXBOTS</a>
 """
