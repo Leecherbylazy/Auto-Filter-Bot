@@ -53,7 +53,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👮 Developer 👮', url="https://t.me/HEXBOTSdg"
+                                    '👮 Developer 👮', url="https://t.me/HEXBOTS"
                                 )
                         ]
                     ]
@@ -65,10 +65,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👮 Developers', url='https://t.me/HEXBOTSdg'),
-        InlineKeyboardButton('Source Code 👨‍💻', url ='https://t.me/HEXBOTSdg')
+        InlineKeyboardButton('👮 Developers', url='https://t.me/HEXBOTS'),
+        InlineKeyboardButton('Source Code 👨‍💻', url ='https://t.me/HEXBOTS')
     ],[
-        InlineKeyboardButton('👥 Support 👥', url='https://t.me/HEXBOTS')
+        InlineKeyboardButton('👥 Support 👥', url='https://t.me/HEXBOTSdg')
     ],[
         InlineKeyboardButton('🆘 Help & Information 🆘', callback_data="help")
     ]]
