@@ -48,7 +48,7 @@ class Bot(Client):
         bot_details = await self.get_me()
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"@{bot_details.username}  started! Join @hebots "
+            f"@{bot_details.username}  started! Join @hexbots "
         )
         self.USER, self.USER_ID = await User().start()
 
